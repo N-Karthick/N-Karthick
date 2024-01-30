@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @N-Karthick
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning nextjs
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me karthickdeva6800@gmail.com
+- 😄 Pronouns:karthick N
